@@ -1,0 +1,15 @@
+
+
+BUG-REPORT №
+Reporter
+Date Submitted: 
+Priority: 
+Severity: 
+Platform: 
+OS: 
+Version OS: 
+Summary: 
+Steps To Reproduce:
+Actual result: 
+Expected result: 
+Attachment:
